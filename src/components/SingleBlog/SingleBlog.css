@@ -1,0 +1,90 @@
+.blog-container {
+    padding-right: 24px;
+    margin: 50px 0px;
+}
+
+.card {
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.card-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+}
+
+.blog-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.author-info {
+    display: flex;
+    align-items: center;
+}
+
+.card-author img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.author-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    color: #111111;
+}
+
+.spent-time,
+.btn-bookmark {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(17, 17, 17, 0.6);
+}
+
+.btn-bookmark {
+    border: none;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.blog-title h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 64px;
+    color: #111111;
+    margin: 16px 0;
+}
+
+.btn-read button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #5159f2;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-read button:hover {
+    background-color: #333cee;
+}
