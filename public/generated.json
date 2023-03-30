@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "6425b7f478d6a805cacb1b8c",
+    "cover": "https://img.freepik.com/premium-photo/coder-programmers-working-office-programmer-analyst-writing-code-coding-program-screen-computer-learning-developing-programs-digital-coding-scripts-java-language_73523-8095.jpg?w=1060",
+    "blogTitle": "Mastering React Hooks: A Beginner's Guide",
+    "readTime": 20,
+    "authorName": "Gabriela Rice",
+    "author_img": "https://img.freepik.com/free-photo/islamic-woman-portrait-looking-camera_53876-24996.jpg?w=826&t=st=1680195532~exp=1680196132~hmac=aafffc8d3c97f9a99728dcc06a867678bfb3bff2d1ee99a3a6b8f7f409df8196",
+    "published": "Mar 30"
+  },
+  {
+    "_id": "6425b7f4764f32ba93010bb5",
+    "cover": "https://img.freepik.com/free-photo/homepage-seen-computer-screen_23-2149416723.jpg?w=1380&t=st=1680196365~exp=1680196965~hmac=0ca5bfff76bd3d2e69f542c19063e36ebc7dedde4601168f6e9f609661cd84d3",
+    "blogTitle": "How to Build a Responsive Navigation Bar in React",
+    "readTime": 15,
+    "authorName": "Buck Berger",
+    "author_img": "https://img.freepik.com/premium-photo/muslim-man-wearing-robe-turban_349476-1404.jpg?w=996",
+    "published": "Mar 27"
+  },
+  {
+    "_id": "6425b7f4e0c7ccfdfd17b99e",
+    "cover": "https://img.freepik.com/premium-photo/coder-programmers-working-office-programmer-analyst-writing-code-coder-working-from-home-with-work-screen-computer-learning-developing-programs-digital-coding-scripts-java-language_73523-8093.jpg?w=1060",
+    "blogTitle": "Debugging Tips and Tricks for React Applications",
+    "readTime": 20,
+    "authorName": "Reid Newton",
+    "author_img": "https://img.freepik.com/free-photo/urban-young-hipster-indian-man-wear-all-black-cool-south-asian-guy-full-cap_627829-4482.jpg?w=1060&t=st=1680195881~exp=1680196481~hmac=e5de80063eb386a9dca50a118202ad1cf4410382484923d315cf3c536a861b8d",
+    "published": "Mar 25"
+  },
+  {
+    "_id": "6425b7f43aa95bcce634e19e",
+    "cover": "https://img.freepik.com/free-photo/male-graphic-designer-sitting-office_1170-1038.jpg?w=1060&t=st=1680196102~exp=1680196702~hmac=20ff6bf2f386b9ba3d174e5302164ae51d299c0ecd77962bd7a094682798eb3d",
+    "blogTitle": "Creating Reusable Components in React: Best Practices",
+    "readTime": 30,
+    "authorName": "Trisha Adams",
+    "author_img": "https://img.freepik.com/free-photo/pretty-smiling-islamic-woman-looking-camera_23-2148188766.jpg?w=740&t=st=1680195548~exp=1680196148~hmac=67444ac482696b65dd43fe083de690bd228d332590947f8030534a45c887b3b5",
+    "published": "Mar 20"
+  }
+]
