@@ -1,5 +1,29 @@
 .bookmarked-container {
-    border: 2px solid black;
     width: 100%;
-    height: auto;
+    height: 100%;
+    background-color: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    padding: 30px;
+
+}
+
+.bookmarked-count {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 38px;
+    color: #111111;
+    margin: 0px;
+}
+
+.bookmark-title {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 16px 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    color: #111111;
 }

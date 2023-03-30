@@ -9,14 +9,23 @@ const Home = () => {
     const handleSpentTime = (time) => {
         setSpentTime(spentTime + time);
     }
+
+    const [bookmarkedItems, setBookmarkedItems] = useState([]);
+    const handleBookmark = (blogTitle) => {
+        const bookMarked = [...bookmarkedItems, blogTitle];
+        setBookmarkedItems(bookMarked);
+    }
     return (
         <div className='home-container'>
             <Blogs
                 handleSpentTime={handleSpentTime}
+                handleBookmark={handleBookmark}
             ></Blogs>
             <div>
                 <SpentTime spentTime={spentTime}></SpentTime>
-                <Bookmarked></Bookmarked>
+                <Bookmarked
+                    bookmarkedItems={bookmarkedItems}
+                ></Bookmarked>
             </div>
         </div>
     );

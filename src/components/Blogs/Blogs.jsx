@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import SingleBlog from '../SingleBlog/SingleBlog';
 import './Blogs.css';
-const Blogs = ({ handleSpentTime }) => {
+const Blogs = ({ handleSpentTime, handleBookmark }) => {
     const [blogs, setBlogs] = useState([]);
     useEffect(() => {
         const loadBlogs = async () => {
@@ -18,6 +18,7 @@ const Blogs = ({ handleSpentTime }) => {
                     key={blog._id}
                     blog={blog}
                     handleSpentTime={handleSpentTime}
+                    handleBookmark={handleBookmark}
                 ></SingleBlog>)
             }
         </div>
