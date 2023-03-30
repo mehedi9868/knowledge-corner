@@ -1,9 +1,9 @@
 import React from 'react';
 import './SpentTime.css';
-const SpentTime = () => {
+const SpentTime = ({ spentTime }) => {
     return (
         <div className='spent-time-container'>
-            <h2> hello from spent time:</h2>
+            <h5 className='spent-time'> Spent time on read : {spentTime} min</h5>
         </div>
     );
 };
