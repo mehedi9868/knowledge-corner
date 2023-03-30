@@ -21,7 +21,7 @@ const SingleBlog = ({ blog, handleSpentTime }) => {
                                 <span className="card-date">{blog.published} (4 Days ago)</span>
                             </div>
                         </div>
-                        <div className="spent-time">
+                        <div className="bookmark">
                             <span>Read Time: {blog.readTime}</span>
                             <button className='btn-bookmark' onClick={() => handleSpentTime(blog.readTime)}>
                                 <FontAwesomeIcon icon={faBookmark} />
