@@ -22,7 +22,7 @@ const SingleBlog = ({ blog, handleSpentTime, handleBookmark }) => {
                             </div>
                         </div>
                         <div className="bookmark">
-                            <span>Read Time: {blog.readTime}</span>
+                            <span>{blog.readTime} min read</span>
                             <button className='btn-bookmark' onClick={() => handleBookmark(blog.blogTitle)}>
                                 <FontAwesomeIcon icon={faBookmark} />
                             </button>
