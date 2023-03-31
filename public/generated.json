@@ -15,7 +15,7 @@
     "readTime": 15,
     "authorName": "Buck Berger",
     "author_img": "https://img.freepik.com/premium-photo/muslim-man-wearing-robe-turban_349476-1404.jpg?w=996",
-    "published": "Mar 27"
+    "published": "Mar 30"
   },
   {
     "_id": "6425b7f4e0c7ccfdfd17b99e",
@@ -24,7 +24,7 @@
     "readTime": 20,
     "authorName": "Reid Newton",
     "author_img": "https://img.freepik.com/free-photo/urban-young-hipster-indian-man-wear-all-black-cool-south-asian-guy-full-cap_627829-4482.jpg?w=1060&t=st=1680195881~exp=1680196481~hmac=e5de80063eb386a9dca50a118202ad1cf4410382484923d315cf3c536a861b8d",
-    "published": "Mar 25"
+    "published": "Mar 30"
   },
   {
     "_id": "6425b7f43aa95bcce634e19e",
@@ -33,6 +33,6 @@
     "readTime": 30,
     "authorName": "Trisha Adams",
     "author_img": "https://img.freepik.com/free-photo/pretty-smiling-islamic-woman-looking-camera_23-2148188766.jpg?w=740&t=st=1680195548~exp=1680196148~hmac=67444ac482696b65dd43fe083de690bd228d332590947f8030534a45c887b3b5",
-    "published": "Mar 20"
+    "published": "Mar 30"
   }
 ]
