@@ -27,7 +27,7 @@ const Home = () => {
                 handleSpentTime={handleSpentTime}
                 handleBookmark={handleBookmark}
             ></Blogs>
-            <div>
+            <div className='side-container'>
                 <SpentTime spentTime={spentTime}></SpentTime>
                 <Bookmarked
                     bookmarkedItems={bookmarkedItems}
