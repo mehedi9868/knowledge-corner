@@ -2,3 +2,10 @@
   max-width: 80%;
   margin: 0 auto;
 }
+
+@media only screen and (min-width: 250px) and (max-width: 576px) {
+  #root {
+    max-width: 100%;
+    padding: 0 10px;
+  }
+}
